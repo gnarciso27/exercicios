@@ -19,5 +19,5 @@ const countWords = (str) => {
     return espacos + 1
 };
 
-const frase = 'guilherme é gay';
+const frase = 'ola pessoa bonita';
 console.log(countWords(frase));
