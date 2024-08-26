@@ -23,5 +23,6 @@ function expandRange(str){
 
     return arrResult
  };
+ 
 
  console.log(expandRange('1-5, 6, 7-12, 13, 14-30'));

@@ -9,6 +9,7 @@ const findDuplicate = (array) => {
     let tamanhoarray = array.length
     for(let i=0; i<tamanhoarray; i++){
         let numero = array[i]
+        
     }
 
 }
