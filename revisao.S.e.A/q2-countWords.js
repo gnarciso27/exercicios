@@ -6,18 +6,18 @@
 
 const countWords = (str) => {
     if(str.length === 0){
-        return 0
+        return 0;
     }
     //.trim() retira os espaços do começo e no final
     str = str.trim();
     let espacos = 0;
     for(let caractere of str){
         if(caractere === ' '){
-            espacos += 1
+            espacos += 1;
         }
     }
-    return espacos + 1
-};
+    return espacos + 1;
+}
 
 const frase = 'ola pessoa bonita';
 console.log(countWords(frase));
