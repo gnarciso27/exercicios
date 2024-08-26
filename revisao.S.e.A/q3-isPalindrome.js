@@ -13,4 +13,4 @@ const isPalindrome = (str) => {
     }
 }
 
-console.log(isPalindrome('cu'))
+console.log(isPalindrome('oi'))
