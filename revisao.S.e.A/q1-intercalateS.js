@@ -8,4 +8,4 @@ function intercalateStrings(str1, str2){
     }
     return str3;
 }
-console.log(intercalateStrings("abc", "123"));
+console.log(intercalateS('LN0', '1D0'));
